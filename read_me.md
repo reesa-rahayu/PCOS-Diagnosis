@@ -1,5 +1,7 @@
 # Laporan Proyek Machine Learning  - Rahayu Kartika Sari
 ## Domain proyek
+![PCOS](https://img-cdn.medkomtek.com/J_Q2GT78W2CZQO8GFX8s0L_AEUI=/0x0/smart/filters:quality(100):format(webp)/article/nv-LVYH1oNKCXGkGGZR86/original/038160000_1569585751-7-Hal-tentang-PCOS-yang-Perlu-Diketahui-Wanita-By-CHEN-I-CHUN-Shutterstock.jpg)
+
 Polycystic Ovary Syndrome (PCOS) adalah gangguan hormonal yang umum terjadi pada wanita usia reproduktif. PCOS dapat menyebabkan berbagai gejala, termasuk tidak teraturnya siklus menstruasi, infertilitas, jerawat, peningkatan berat badan, dan gejala terkait metabolisme. Menyebabkan dampak signifikan baik secara fisik maupun psikologis, penting untuk mengidentifikasi PCOS secara dini agar pengobatan yang tepat dapat diberikan.
 
 Seiring dengan kemajuan dalam teknologi dan kemampuan machine learning, pemanfaatan algoritma untuk mendiagnosis PCOS dapat memberikan solusi yang cepat dan akurat. Proyek ini bertujuan untuk mengembangkan model machine learning yang dapat membantu dalam mengidentifikasi PCOS berdasarkan dataset medis yang relevan. Dengan adanya model ini, diharapkan akan ada peningkatan dalam deteksi awal dan manajemen kesehatan wanita.
